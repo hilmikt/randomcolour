@@ -4,7 +4,9 @@
 ## Contract Address
 
 - **Deployed Contract**: `0x6bc4Af07B2aDbA143427B7E78Dbcc1d3E131c6EC`  
-- **Block Explorer**: https://coston2-explorer.flare.network/address/0x6bc4Af07B2aDbA143427B7E78Dbcc1d3E131c6EC  
+- **Block Explorer**: https://coston2-explorer.flare.network/address/0x6bc4Af07B2aDbA143427B7E78Dbcc1d3E131c6EC
+- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58e90fa2-2bee-4df2-81bf-c95eec4fd790" />
+
 
 ---
 
